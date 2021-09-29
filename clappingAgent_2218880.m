@@ -14,7 +14,7 @@ classdef clappingAgent
 %   email: m.diluca@bham.ac.uk
 %   Date: 11/03/2021
 %
-%   Last revision: $date, Author, Changes
+%   Last revision: 24/05/2021, Margarita Saranti
 
     properties
         % variables, whose values are assigned to the instance
